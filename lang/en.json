@@ -1,0 +1,17 @@
+{
+
+  "addon.Iron-Chest.versions.1-0-0.changes.0": "Created the iron chest",
+  "addon.Iron-Chest.versions.1-0-0.changes.1": "Created the gold chest",
+  "addon.Iron-Chest.versions.1-0-0.changes.2": "Created the diamond chest",
+  "addon.Iron-Chest.versions.1-0-0.changes.3": "Created the copper chest",
+  "addon.Iron-Chest.versions.1-0-0.changes.4": "Created the glass chest",
+  "addon.Iron-Chest.versions.1-0-0.description": "Adds iron, gold, diamond, copper, and glass chests",
+
+  "addon.Iron-Chest.versions.1-0-1.changes.0": "Added the netherite chest",
+  "addon.Iron-Chest.versions.1-0-1.changes.1": "Fixed the texture of the copper chest",
+  "addon.Iron-Chest.versions.1-0-1.changes.2": "Fixed gold chest crafting recipes",
+  "addon.Iron-Chest.versions.1-0-1.changes.3": "Added original textures for the Iron-Chest",
+
+  "addon.Iron-Chest.versions.2-0-0.changes.0": "Added the netherite chest",
+  "addon.Iron-Chest.versions.2-0-0.changes.1": "Updated the chest textures"
+}
