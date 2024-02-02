@@ -12,5 +12,8 @@
   "addon.Iron-Chest.versions.1-0-1.changes.3": "Se agregaron las texturas originales de el Iron-Chest",
 
   "addon.Iron-Chest.versions.2-0-0.changes.0": "Se agrego el cofre de netherite",
-  "addon.Iron-Chest.versions.2-0-0.changes.1": "Se actualizaron las texturas de los cofres"
+  "addon.Iron-Chest.versions.2-0-0.changes.1": "Se actualizaron las texturas de los cofres",
+
+  "addon.Iron-Chest.versions.3-0-0.changes.0": "Se remplazo \"glass_chest\" por \"crystal_chest\"",
+  "addon.Iron-Chest.versions.3-0-0.changes.1": "Se agrego el cofre de tierra"
 }

@@ -13,5 +13,8 @@
   "addon.Iron-Chest.versions.1-0-1.changes.3": "Added original textures for the Iron-Chest",
 
   "addon.Iron-Chest.versions.2-0-0.changes.0": "Added the netherite chest",
-  "addon.Iron-Chest.versions.2-0-0.changes.1": "Updated the chest textures"
+  "addon.Iron-Chest.versions.2-0-0.changes.1": "Updated the chest textures",
+
+  "addon.Iron-Chest.versions.3-0-0.changes.0": "Replaced \"glass_chest\" with \"crystal_chest\"",
+  "addon.Iron-Chest.versions.3-0-0.changes.1": "Added the dirt chest"
 }
