@@ -20,5 +20,7 @@
   
   "addon.Iron-Chest.versions.3-0-1.changes.0": "Fixed crystal chest crafting",
   "addon.Iron-Chest.versions.3-0-1.changes.1": "Added the option to choose the chest interface",
-  "addon.Iron-Chest.versions.3-0-1.images.0": "Options"
+  "addon.Iron-Chest.versions.3-0-1.images.0": "Options",
+
+  "addon.Iron-Chest.versions.3-1-0.changes.0": "More languages"
 }
