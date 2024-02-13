@@ -15,5 +15,8 @@
   "addon.Iron-Chest.versions.2-0-0.changes.1": "Ĝisdatigitaj la kesto-textures",
 
   "addon.Iron-Chest.versions.3-0-0.changes.0": "Anstataŭigita \"glass_chest\" per \"crystal_chest\"",
-  "addon.Iron-Chest.versions.3-0-0.changes.1": "Aldonita la tero kesto"
+  "addon.Iron-Chest.versions.3-0-0.changes.1": "Aldonita la tero kesto",
+  
+  "addon.Iron-Chest.versions.3-0-1.changes.0": "Fiksa kristala brusto-kreado",
+  "addon.Iron-Chest.versions.3-0-1.changes.1": "Aldonis la eblon elekti la kestan interfacon"
 }

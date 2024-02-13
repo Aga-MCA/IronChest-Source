@@ -16,5 +16,8 @@
   "addon.Iron-Chest.versions.2-0-0.changes.1": "Updated the chest textures",
 
   "addon.Iron-Chest.versions.3-0-0.changes.0": "Replaced \"glass_chest\" with \"crystal_chest\"",
-  "addon.Iron-Chest.versions.3-0-0.changes.1": "Added the dirt chest"
+  "addon.Iron-Chest.versions.3-0-0.changes.1": "Added the dirt chest",
+  
+  "addon.Iron-Chest.versions.3-0-1.changes.0": "Fixed crystal chest crafting",
+  "addon.Iron-Chest.versions.3-0-1.changes.1": "Added the option to choose the chest interface"
 }

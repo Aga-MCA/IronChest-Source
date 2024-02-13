@@ -15,5 +15,8 @@
   "addon.Iron-Chest.versions.2-0-0.changes.1": "Se actualizaron las texturas de los cofres",
 
   "addon.Iron-Chest.versions.3-0-0.changes.0": "Se remplazo \"glass_chest\" por \"crystal_chest\"",
-  "addon.Iron-Chest.versions.3-0-0.changes.1": "Se agrego el cofre de tierra"
+  "addon.Iron-Chest.versions.3-0-0.changes.1": "Se agrego el cofre de tierra",
+
+  "addon.Iron-Chest.versions.3-0-1.changes.0": "Se arreglaron los crafteos de el cofre de cristal",
+  "addon.Iron-Chest.versions.3-0-1.changes.1": "Se agrego la opcion de escoger la interfaz de los cofres"
 }
