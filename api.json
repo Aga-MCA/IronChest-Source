@@ -56,7 +56,7 @@
         "addon.Iron-Chest.versions.3-0-1.changes.1"
       ],
       "images": [{
-        "url": "/source/image/addon/Iron-Chest/3.0.1/image.png",
+        "url": "https://raw.githubusercontent.com/Aga-MCA/IronChest-Source/main/v/3.0.1/image.png",
         "caption": "addon.Iron-Chest.versions.3-0-1.images.0"
       }],
       "url": "https://github.com/Aga-MCA/IronChest-Addon/releases/download/v3.0.1/IronChest-v3.0.1.mcaddon"
