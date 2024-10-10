@@ -68,6 +68,16 @@
         "addon.Iron-Chest.versions.3-1-0.changes.0"
       ],
       "url": "https://github.com/Aga-MCA/IronChest-Addon/releases/download/v3.1.0/IronChest-v3.1.0.mcaddon"
+    },
+    {
+      "version": "4.0.0",
+      "date": "2024-10-10T00:22:00",
+      "changes": [
+        "addon.Iron-Chest.versions.4-0-0.changes.0",
+        "addon.Iron-Chest.versions.4-0-0.changes.1",
+        "addon.Iron-Chest.versions.4-0-0.changes.2"
+      ],
+      "url": "https://github.com/Aga-MCA/IronChest-Addon/releases/download/v4.0.0/IronChest-v4.0.0.mcaddon"
     }
   ]
 }

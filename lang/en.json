@@ -22,5 +22,9 @@
   "addon.Iron-Chest.versions.3-0-1.changes.1": "Added the option to choose the chest interface",
   "addon.Iron-Chest.versions.3-0-1.images.0": "Options",
 
-  "addon.Iron-Chest.versions.3-1-0.changes.0": "More languages"
+  "addon.Iron-Chest.versions.3-1-0.changes.0": "More languages",
+
+  "addon.Iron-Chest.versions.4-0-0.changes.0": "Update to new minecraft version",
+  "addon.Iron-Chest.versions.4-0-0.changes.1": "Animate chests",
+  "addon.Iron-Chest.versions.4-0-0.changes.2": "Added the upgrade items"
 }
